@@ -1,0 +1,34 @@
+/* WHIFF temporary stock imagery layer. Replace with commissioned/AI imagery later. Sources: Pexels. */
+
+.hero-visual{background-image:linear-gradient(115deg,rgba(5,10,16,.35),rgba(9,24,39,.2)),url('https://images.pexels.com/photos/30990130/pexels-photo-30990130.jpeg?auto=compress&cs=tinysrgb&w=1800');background-size:cover;background-position:center;}
+.hero-visual img{opacity:.22!important;mix-blend-mode:screen;}
+.stage-card:before{background-size:cover!important;background-position:center!important;background-blend-mode:multiply;}
+.world-threshold:before{background-image:linear-gradient(135deg,rgba(15,35,51,.62),rgba(208,195,166,.3)),url('https://images.pexels.com/photos/16025658/pexels-photo-16025658.jpeg?auto=compress&cs=tinysrgb&w=1200')!important;}
+.world-pull:before{background-image:linear-gradient(135deg,rgba(75,45,53,.52),rgba(239,220,214,.2)),url('https://images.pexels.com/photos/30990130/pexels-photo-30990130.jpeg?auto=compress&cs=tinysrgb&w=1200')!important;}
+.world-heat:before{background-image:linear-gradient(135deg,rgba(37,17,10,.65),rgba(168,71,39,.3)),url('https://images.pexels.com/photos/17461549/pexels-photo-17461549.jpeg?auto=compress&cs=tinysrgb&w=1200')!important;}
+.world-shadow:before{background-image:linear-gradient(120deg,rgba(5,18,30,.72),rgba(56,75,92,.28)),url('https://images.pexels.com/photos/16689203/pexels-photo-16689203.jpeg?auto=compress&cs=tinysrgb&w=1200')!important;}
+.world-reach:before{background-image:linear-gradient(120deg,rgba(91,54,48,.58),rgba(213,164,151,.25)),url('https://images.pexels.com/photos/12741172/pexels-photo-12741172.jpeg?auto=compress&cs=tinysrgb&w=1200')!important;}
+.world-near:before{background-image:linear-gradient(120deg,rgba(31,48,40,.55),rgba(221,220,208,.3)),url('https://images.pexels.com/photos/3640668/pexels-photo-3640668.jpeg?auto=compress&cs=tinysrgb&w=1200')!important;}
+.world-distance:before{background-image:linear-gradient(120deg,rgba(6,22,39,.72),rgba(76,96,115,.3)),url('https://images.pexels.com/photos/26924219/pexels-photo-26924219.jpeg?auto=compress&cs=tinysrgb&w=1200')!important;}
+.world-echo:before{background-image:linear-gradient(135deg,rgba(92,62,43,.52),rgba(218,199,174,.3)),url('https://images.pexels.com/photos/954405/pexels-photo-954405.jpeg?auto=compress&cs=tinysrgb&w=1200')!important;}
+.world-bloom:before{background-image:linear-gradient(135deg,rgba(133,96,94,.38),rgba(245,231,217,.2)),url('https://images.pexels.com/photos/12053222/pexels-photo-12053222.jpeg?auto=compress&cs=tinysrgb&w=1200')!important;}
+.stage-world{background-size:cover;background-position:center;opacity:.68!important;}
+.visual-threshold{background-image:linear-gradient(90deg,rgba(8,20,31,.72),rgba(8,20,31,.2) 55%,rgba(8,20,31,.18)),url('https://images.pexels.com/photos/16025658/pexels-photo-16025658.jpeg?auto=compress&cs=tinysrgb&w=1800');}
+.visual-pull{background-image:linear-gradient(90deg,rgba(25,15,18,.75),rgba(25,15,18,.18)),url('https://images.pexels.com/photos/30990130/pexels-photo-30990130.jpeg?auto=compress&cs=tinysrgb&w=1800');}
+.visual-heat{background-image:linear-gradient(90deg,rgba(35,16,10,.75),rgba(35,16,10,.12)),url('https://images.pexels.com/photos/17461549/pexels-photo-17461549.jpeg?auto=compress&cs=tinysrgb&w=1800');}
+.visual-shadow{background-image:linear-gradient(90deg,rgba(4,13,22,.78),rgba(4,13,22,.12)),url('https://images.pexels.com/photos/16689203/pexels-photo-16689203.jpeg?auto=compress&cs=tinysrgb&w=1800');}
+.visual-reach{background-image:linear-gradient(90deg,rgba(44,26,27,.75),rgba(44,26,27,.12)),url('https://images.pexels.com/photos/12741172/pexels-photo-12741172.jpeg?auto=compress&cs=tinysrgb&w=1800');}
+.visual-near{background-image:linear-gradient(90deg,rgba(23,31,28,.76),rgba(23,31,28,.12)),url('https://images.pexels.com/photos/3640668/pexels-photo-3640668.jpeg?auto=compress&cs=tinysrgb&w=1800');}
+.visual-distance{background-image:linear-gradient(90deg,rgba(5,17,29,.8),rgba(5,17,29,.12)),url('https://images.pexels.com/photos/26924219/pexels-photo-26924219.jpeg?auto=compress&cs=tinysrgb&w=1800');}
+.visual-echo{background-image:linear-gradient(90deg,rgba(51,34,25,.75),rgba(51,34,25,.12)),url('https://images.pexels.com/photos/954405/pexels-photo-954405.jpeg?auto=compress&cs=tinysrgb&w=1800');}
+.visual-bloom{background-image:linear-gradient(90deg,rgba(72,43,43,.68),rgba(72,43,43,.08)),url('https://images.pexels.com/photos/12053222/pexels-photo-12053222.jpeg?auto=compress&cs=tinysrgb&w=1800');}
+.discovery-art{background-image:linear-gradient(115deg,rgba(7,19,33,.72),rgba(21,45,72,.24)),url('https://images.pexels.com/photos/16025658/pexels-photo-16025658.jpeg?auto=compress&cs=tinysrgb&w=1800')!important;background-size:cover;background-position:center;}
+.journal-art{background-size:cover;background-position:center;}
+.art-memory{background-image:linear-gradient(135deg,rgba(32,24,19,.25),rgba(32,24,19,.45)),url('https://images.pexels.com/photos/954405/pexels-photo-954405.jpeg?auto=compress&cs=tinysrgb&w=1800')!important;}
+.art-drydown{background-image:linear-gradient(120deg,rgba(9,18,27,.5),rgba(50,72,91,.28)),url('https://images.pexels.com/photos/16689203/pexels-photo-16689203.jpeg?auto=compress&cs=tinysrgb&w=1800')!important;}
+.art-stage{background-image:linear-gradient(135deg,rgba(50,37,63,.32),rgba(21,19,26,.45)),url('https://images.pexels.com/photos/30990130/pexels-photo-30990130.jpeg?auto=compress&cs=tinysrgb&w=1800')!important;}
+.art-absence{background-image:linear-gradient(120deg,rgba(7,20,33,.58),rgba(82,103,122,.28)),url('https://images.pexels.com/photos/26924219/pexels-photo-26924219.jpeg?auto=compress&cs=tinysrgb&w=1800')!important;}
+.art-skin{background-image:linear-gradient(135deg,rgba(91,61,53,.28),rgba(53,39,42,.4)),url('https://images.pexels.com/photos/3640668/pexels-photo-3640668.jpeg?auto=compress&cs=tinysrgb&w=1800')!important;}
+.art-night{background-image:linear-gradient(135deg,rgba(50,25,14,.4),rgba(154,76,46,.25)),url('https://images.pexels.com/photos/17461549/pexels-photo-17461549.jpeg?auto=compress&cs=tinysrgb&w=1800')!important;}
+.stock-credit{display:block;margin-top:14px;font:400 8px/1.5 var(--mono);letter-spacing:.06em;color:var(--muted);text-transform:uppercase}.stock-credit a{text-decoration:underline}
+@media(max-width:700px){.stage-world{background-position:65% center}.hero-visual{background-position:58% center}.discovery-art{background-position:62% center}.journal-art{background-position:62% center}}

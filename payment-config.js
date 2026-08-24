@@ -1,2 +1,2 @@
 window.WHIFF_PAYMENT={upiId:'8294805412@yescred',payeeName:'WHIFF',whatsappNumber:'918294805412',currency:'INR',productPrice:299,mrp:399,collectionPrice:2499,firstOrderDiscount:50,discoveryPrice:499,discoveryMrp:599,discoveryShipping:0};
-(function(){try{if(localStorage.getItem('whiff-first-order-used')!=='1'){const p=new URLSearchParams(location.search);if(p.get('discount')!=='1'){p.set('discount','1');history.replaceState({},'',location.pathname+'?'+p.toString())}}}catch(e){}const s=document.createElement('script');s.src='/site-hardening.js';document.head.appendChild(s)})();
+(function(){const s=document.createElement('script');s.src='/site-hardening.js';document.head.appendChild(s)})();

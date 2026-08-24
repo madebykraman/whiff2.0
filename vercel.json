@@ -1,0 +1,13 @@
+{
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Link",
+          "value": "</whiff-atmosphere.css>; rel=\"stylesheet\""
+        }
+      ]
+    }
+  ]
+}
